@@ -4,5 +4,10 @@
   "description": "Portfolio to showcase code samples and personal code projects",
   "main": "index.js",
   "author": "Joseph Knowles <joejknowles@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "next": "^1.2.3",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
 }
