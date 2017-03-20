@@ -1,0 +1,8 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio to showcase code samples and personal code projects",
+  "main": "index.js",
+  "author": "Joseph Knowles <joejknowles@gmail.com>",
+  "license": "MIT"
+}
